@@ -1,4 +1,4 @@
 
-# data
+# Data
 
 This folder is data docs
